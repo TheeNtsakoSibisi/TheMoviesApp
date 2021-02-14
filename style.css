@@ -44,9 +44,9 @@ main{
 }
 main div{
     width: 250px;
-    height: 320px;
+    height: 350px;
     margin: 19px 15px;
-    background: red;
+    background: blue;
 }
 img{
     width: 100%;
