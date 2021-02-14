@@ -35,7 +35,8 @@ header form{
     border: 1px solid black;
     outline: none;
     border-radius: 20px;
-    padding-left: 15px;
+    align: right;
+    padding-right: 15px;
 }
 main{
     width: 100%;
