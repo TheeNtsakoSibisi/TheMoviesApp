@@ -61,7 +61,7 @@ body{
     color: #fff;
 }
 .nav .nav-text {
-    margin: 0 20px;
+    padding-right: 20px;
 }
 .nav .form {
     display: flex;
