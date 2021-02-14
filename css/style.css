@@ -118,15 +118,6 @@ h3{
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-@media (max-width:767px) {
-    h1 {
-        font-size: 40px;
-    }
-    h2 {
-        font-size: 30px;
-    }
-}
-
 @media all and (max-width: 768px) {
   /* For mobile phones: */
   .card, .card-3, .form-group, .form-control, .nav, #search, .title, .nav-link, .nav-text, .form {
