@@ -121,7 +121,8 @@ h3{
 
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
-  .card, .card-3, .form-group, .form-control, header {
+  .card, .card-3, .form-group, .form-control, .nav {
     width: 100%;
+    font-size: 14px;
   }
 }
