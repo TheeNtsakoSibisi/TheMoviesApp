@@ -16,11 +16,14 @@ function showMovies(url){
         const el = document.createElement('div');
         const image = document.createElement('img');
         const text = document.createElement('h2');
+        const releaseDate = document.createElement('h3');
 
         text.innerHTML = `${element.title}`;
         image.src = IMGPATH + element.poster_path;
+        releaseDate.innerHTML = `${element.release_date}`;
         el.appendChild(image);
         el.appendChild(text);
+        el.appendChild(releaseDate);
         main.appendChild(el);
     }); 
 });
