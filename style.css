@@ -27,7 +27,7 @@ header a {
 }
 header form{
     display: flex;
-    align-items: center;
+    align-items: right;
 }
 #search{
     width: 230px;
