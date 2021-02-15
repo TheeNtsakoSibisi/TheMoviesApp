@@ -1,4 +1,6 @@
 # TheMoviesApp
+showcase content from ​The Movie Database API
+(​https://developers.themoviedb.org/3/getting-started/introduction​).
 # The Assessment
 Upon receiving this assessment, I had to rewrite the requirements down on a piece of paper and listed the requirements according to priority.
 My list was something like this:
